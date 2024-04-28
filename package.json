@@ -1,0 +1,11 @@
+{
+  "name": "server-pokemon",
+  "version": "0.0.1",
+  "description": "Unidad 1 practica creacion de un servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Osorio",
+  "license": "ISC"
+}
